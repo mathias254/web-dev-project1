@@ -1,3 +1,11 @@
+#hero {
+  color: rgb(213, 223, 124);
+  background-image: url("../images/download\ \(1\).jpg");
+}
+#nyabila {
+  background-image: url("../images/103e59ca-b2f3-40b7-a183-7cb016ff51fa.jpg");
+}
+
 h1 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 48px;
@@ -32,6 +40,5 @@ li {
   font-weight: bold;
   border-radius: 5px;
   margin: 50px;
-  background-color: rgb(223, 140, 125);
   padding: 50px;
 }
